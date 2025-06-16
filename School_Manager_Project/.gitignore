@@ -1,0 +1,29 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Vendor directory
+/vendor/
+
+# IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Env
+*.env
+
+# SSL keys
+server/cert.pem
+server/key.pem
+
+# SSL config
+openssl.cnf
+
