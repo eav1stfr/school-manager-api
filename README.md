@@ -78,7 +78,7 @@ School_Manager_Project/
 
 ---
 
-## 🧭 API Overview
+## 🧭 API Overview (Example endpoints)
 
 | Resource | Method | Endpoint | Description |
 |----------|--------|----------|-------------|
